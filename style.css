@@ -35,7 +35,7 @@ p, h1, h2 , h3 {
 
 .logo img {
     width: 100%;
-    height: auto;
+    height: 50px;
      /* Tamaño en móviles */
 }
 
@@ -157,7 +157,7 @@ p, h1, h2 , h3 {
 }
   
 .servicio img {
-    margin: 10px 0 0 17px;
+    margin: 10px 0 0 0px;
     width: 280px;
     height: 250px;
     object-fit: cover;
@@ -573,4 +573,5 @@ p, h1, h2 , h3 {
         font-size: 13px;
         text-align: center;
       }
+
     }
